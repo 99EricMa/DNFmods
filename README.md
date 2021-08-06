@@ -9,7 +9,7 @@ This is a mod which modifies UI show of DNF games.
 
 Change the HP UI and now you can look through your UI when your HP/MP is low our consumables or skill bar is empty.
 
-![image-20210807061455323](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807061455323.png)
+![image-20210807061455323](https://github.com/99EricMa/DNFmods/blob/main/images/01.png)
 
 
 
@@ -19,11 +19,11 @@ Simplify skill bar which offer 4 versions:
 
 1. hide key indicator
 
-   ![image-20210807061940248](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807061940248.png)
+   ![image-20210807061940248](https://github.com/99EricMa/DNFmods/blob/main/images/02.png)
 
 2. hide skill level
 
-   ![image-20210807061954583](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807061954583.png)
+   ![image-20210807061954583](https://github.com/99EricMa/DNFmods/blob/main/images/03.png)
 
 3. hide skill lock
 
