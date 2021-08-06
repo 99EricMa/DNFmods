@@ -27,11 +27,11 @@ Simplify skill bar which offer 4 versions:
 
 3. hide skill lock
 
-   ![image-20210807062011024](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807062011024.png)
+   ![image-20210807062011024](https://github.com/99EricMa/DNFmods/blob/main/images/04.png)
 
 4. hide all above
 
-   ![image-20210807062022134](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807062022134.png)
+   ![image-20210807062022134](https://github.com/99EricMa/DNFmods/blob/main/images/05.png)
 
    
 
@@ -39,7 +39,7 @@ Simplify skill bar which offer 4 versions:
 
 Change item frames which is now look better.
 
-![image-20210807063239790](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807063239790.png)
+![image-20210807063239790](https://github.com/99EricMa/DNFmods/blob/main/images/06.png)
 
 
 
@@ -49,11 +49,11 @@ Shrink badge icons' size and move them to the middle bottom of item icons
 
 Before:
 
-![image-20210807062311752](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807062311752.png)
+![image-20210807062311752](https://github.com/99EricMa/DNFmods/blob/main/images/07.png)
 
 After:
 
-![image-20210807062322211](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807062322211.png)
+![image-20210807062322211](https://github.com/99EricMa/DNFmods/blob/main/images/08.png)
 
 
 
@@ -63,11 +63,11 @@ Redesign the safe lock, position lock and buff icons which don't conflict any mo
 
 Before:
 
-![image-20210807062747106](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807062747106.png)
+![image-20210807062747106](https://github.com/99EricMa/DNFmods/blob/main/images/09.png)
 
 After:
 
-![image-20210807062800906](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807062800906.png)
+![image-20210807062800906](https://github.com/99EricMa/DNFmods/blob/main/images/10.png)
 
 ## Illusion modify
 
@@ -75,9 +75,9 @@ Change the 'illusion'(幻化) icon to a simple star
 
 Before:
 
-![image-20210807063011526](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807063011526.png)
+![image-20210807063011526](https://github.com/99EricMa/DNFmods/blob/main/images/11.png)
 
  After:
 
-![image-20210807063021829](C:\Users\94507\AppData\Roaming\Typora\typora-user-images\image-20210807063021829.png)
+![image-20210807063021829](https://github.com/99EricMa/DNFmods/blob/main/images/12.png)
 
